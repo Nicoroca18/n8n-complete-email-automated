@@ -6,7 +6,7 @@ This n8n workflow automates outbound B2B email campaigns. It extracts company an
 
 - **Google Drive Trigger:** Watches a folder for new Excel/CSV files.
 - **Data Extraction:** Pulls company and contact info from files.
-- **Web & LinkedIn Scraping:** Reads website and LinkedIn pages for enrichment.
+- **Web & LinkedIn Scraping:** Reads website and LinkedIn pages for enrichment. 
 - **AI Email Generation:** Creates initial emails and follow-ups in multiple languages.
 - **AI Email Evaluation:** Scores emails and suggests improvements.
 - **Email Mapping:** Prepares final email content for sending.
